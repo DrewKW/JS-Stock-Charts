@@ -1,5 +1,3 @@
 # Stock Charts
 
-This is an activity for FSWD Lesson 5.7.5- 3rd Party Libraries & ChartJS.
-
-Please refer to the Activity Guide in Canvas for directions.
+You've been hired to help build a dashboard for a friend so they can view how their stocks are performing. You will build it using fetch to retrieve real stock data, and ChartJS to display the data in the browser.
